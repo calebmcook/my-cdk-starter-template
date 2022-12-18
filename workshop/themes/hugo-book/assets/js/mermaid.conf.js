@@ -1,1 +1,0 @@
-;{mermaid.initialize( {{ .Content | safeJS }} );

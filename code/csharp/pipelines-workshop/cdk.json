@@ -1,5 +1,0 @@
-{
-  "app": "dotnet run -p src/CdkWorkshop/CdkWorkshop.csproj",
-  "context": {
-  }
-}
