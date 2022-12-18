@@ -1,8 +1,6 @@
 *.js
 !**/lambda/*.js
-!workshop/static/**
-!workshop/assets/**
-!workshop/themes/**
+
 *.d.ts
 node_modules
 workshop/public/**
